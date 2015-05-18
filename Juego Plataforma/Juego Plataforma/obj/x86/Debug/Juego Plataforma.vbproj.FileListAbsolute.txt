@@ -1,0 +1,21 @@
+C:\Users\DccS\AppData\Local\Temporary Projects\Juego Plataforma\bin\Debug\Juego Plataforma.exe
+C:\Users\DccS\AppData\Local\Temporary Projects\Juego Plataforma\bin\Debug\Juego Plataforma.pdb
+C:\Users\DccS\AppData\Local\Temporary Projects\Juego Plataforma\bin\Debug\Juego Plataforma.xml
+C:\Users\DccS\AppData\Local\Temporary Projects\Juego Plataforma\obj\x86\Debug\Juego_Plataforma.Plataformas.resources
+C:\Users\DccS\AppData\Local\Temporary Projects\Juego Plataforma\obj\x86\Debug\Juego_Plataforma.Resources.resources
+C:\Users\DccS\AppData\Local\Temporary Projects\Juego Plataforma\obj\x86\Debug\Juego Plataforma.vbproj.GenerateResource.Cache
+C:\Users\DccS\AppData\Local\Temporary Projects\Juego Plataforma\obj\x86\Debug\Juego Plataforma.exe
+C:\Users\DccS\AppData\Local\Temporary Projects\Juego Plataforma\obj\x86\Debug\Juego Plataforma.xml
+C:\Users\DccS\AppData\Local\Temporary Projects\Juego Plataforma\obj\x86\Debug\Juego Plataforma.pdb
+C:\dev vs\Juego Plataforma\Juego Plataforma\obj\x86\Debug\Juego Plataforma.exe
+C:\dev vs\Juego Plataforma\Juego Plataforma\obj\x86\Debug\Juego Plataforma.xml
+C:\dev vs\Juego Plataforma\Juego Plataforma\obj\x86\Debug\Juego Plataforma.pdb
+D:\dev vs\Juego Plataforma\Juego Plataforma\obj\x86\Debug\Juego Plataforma.exe
+D:\dev vs\Juego Plataforma\Juego Plataforma\obj\x86\Debug\Juego Plataforma.xml
+D:\dev vs\Juego Plataforma\Juego Plataforma\obj\x86\Debug\Juego Plataforma.pdb
+D:\dev vs\Juego Plataforma\Juego Plataforma\bin\Debug\Juego Plataforma.exe
+D:\dev vs\Juego Plataforma\Juego Plataforma\bin\Debug\Juego Plataforma.pdb
+D:\dev vs\Juego Plataforma\Juego Plataforma\bin\Debug\Juego Plataforma.xml
+D:\dev vs\Juego Plataforma\Juego Plataforma\obj\x86\Debug\Juego_Plataforma.Plataformas.resources
+D:\dev vs\Juego Plataforma\Juego Plataforma\obj\x86\Debug\Juego_Plataforma.Resources.resources
+D:\dev vs\Juego Plataforma\Juego Plataforma\obj\x86\Debug\Juego Plataforma.vbproj.GenerateResource.Cache

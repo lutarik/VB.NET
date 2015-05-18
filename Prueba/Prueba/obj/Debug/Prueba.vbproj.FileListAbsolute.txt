@@ -1,0 +1,10 @@
+D:\dev vs\Prueba\Prueba\bin\Debug\Prueba.exe
+D:\dev vs\Prueba\Prueba\bin\Debug\Prueba.pdb
+D:\dev vs\Prueba\Prueba\bin\Debug\Prueba.xml
+D:\dev vs\Prueba\Prueba\obj\Debug\Prueba.Form1.resources
+D:\dev vs\Prueba\Prueba\obj\Debug\Prueba.Resources.resources
+D:\dev vs\Prueba\Prueba\obj\Debug\Prueba.vbproj.GenerateResource.Cache
+D:\dev vs\Prueba\Prueba\obj\Debug\Prueba.exe.licenses
+D:\dev vs\Prueba\Prueba\obj\Debug\Prueba.exe
+D:\dev vs\Prueba\Prueba\obj\Debug\Prueba.xml
+D:\dev vs\Prueba\Prueba\obj\Debug\Prueba.pdb

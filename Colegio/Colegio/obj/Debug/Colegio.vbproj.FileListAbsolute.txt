@@ -1,0 +1,12 @@
+C:\Users\DccS\AppData\Local\Temporary Projects\Colegio\bin\Debug\Colegio.exe.config
+D:\dev vs\Colegio\Colegio\bin\Debug\Colegio.exe.config
+D:\dev vs\Colegio\Colegio\bin\Debug\Resources\colegio.accdb
+D:\dev vs\Colegio\Colegio\bin\Debug\Colegio.exe
+D:\dev vs\Colegio\Colegio\bin\Debug\Colegio.pdb
+D:\dev vs\Colegio\Colegio\bin\Debug\Colegio.xml
+D:\dev vs\Colegio\Colegio\obj\Debug\Colegio.frmppal.resources
+D:\dev vs\Colegio\Colegio\obj\Debug\Colegio.Resources.resources
+D:\dev vs\Colegio\Colegio\obj\Debug\Colegio.vbproj.GenerateResource.Cache
+D:\dev vs\Colegio\Colegio\obj\Debug\Colegio.exe
+D:\dev vs\Colegio\Colegio\obj\Debug\Colegio.xml
+D:\dev vs\Colegio\Colegio\obj\Debug\Colegio.pdb

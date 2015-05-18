@@ -1,0 +1,36 @@
+C:\Users\DccS\AppData\Local\Temporary Projects\Tres en Raya\bin\Debug\Tres en Raya.exe
+C:\Users\DccS\AppData\Local\Temporary Projects\Tres en Raya\bin\Debug\Tres en Raya.pdb
+C:\Users\DccS\AppData\Local\Temporary Projects\Tres en Raya\bin\Debug\Tres en Raya.xml
+C:\Users\DccS\AppData\Local\Temporary Projects\Tres en Raya\obj\x86\Debug\Tres_en_Raya.Resources.resources
+C:\Users\DccS\AppData\Local\Temporary Projects\Tres en Raya\obj\x86\Debug\Tres_en_Raya.Principal.resources
+C:\Users\DccS\AppData\Local\Temporary Projects\Tres en Raya\obj\x86\Debug\Tres en Raya.vbproj.GenerateResource.Cache
+C:\Users\DccS\AppData\Local\Temporary Projects\Tres en Raya\obj\x86\Debug\Tres en Raya.exe
+C:\Users\DccS\AppData\Local\Temporary Projects\Tres en Raya\obj\x86\Debug\Tres en Raya.xml
+C:\Users\DccS\AppData\Local\Temporary Projects\Tres en Raya\obj\x86\Debug\Tres en Raya.pdb
+D:\dev vs\Tres en Raya\Tres en Raya\obj\x86\Debug\Tres en Raya.exe
+D:\dev vs\Tres en Raya\Tres en Raya\obj\x86\Debug\Tres en Raya.xml
+D:\dev vs\Tres en Raya\Tres en Raya\obj\x86\Debug\Tres en Raya.pdb
+D:\dev vs\Tres en Raya\Tres en Raya\bin\Debug\Tres en Raya.exe
+D:\dev vs\Tres en Raya\Tres en Raya\bin\Debug\Tres en Raya.pdb
+D:\dev vs\Tres en Raya\Tres en Raya\bin\Debug\Tres en Raya.xml
+D:\dev vs\Tres en Raya\Tres en Raya\obj\x86\Debug\Tres_en_Raya.Resources.resources
+D:\dev vs\Tres en Raya\Tres en Raya\obj\x86\Debug\Tres_en_Raya.Principal.resources
+D:\dev vs\Tres en Raya\Tres en Raya\obj\x86\Debug\Tres en Raya.vbproj.GenerateResource.Cache
+D:\dev vs\Tres en Raya\Tres en Raya\obj\x86\Debug\Tres_en_Raya.Ayuda.resources
+D:\dev vs\Tres en Raya\Tres en Raya\obj\x86\Debug\Tres_en_Raya.Configuracion.resources
+D:\dev vs\Tres en Raya V2\Tres en Raya\obj\x86\Debug\Tres en Raya.exe
+D:\dev vs\Tres en Raya V2\Tres en Raya\obj\x86\Debug\Tres en Raya.xml
+D:\dev vs\Tres en Raya V2\Tres en Raya\obj\x86\Debug\Tres en Raya.pdb
+D:\dev vs\Tres en Raya V2\Tres en Raya\obj\x86\Debug\Tres_en_Raya.Ayuda.resources
+D:\dev vs\Tres en Raya V2\Tres en Raya\obj\x86\Debug\Tres_en_Raya.Configuracion.resources
+D:\dev vs\Tres en Raya V2\Tres en Raya\obj\x86\Debug\Tres_en_Raya.Resources.resources
+D:\dev vs\Tres en Raya V2\Tres en Raya\obj\x86\Debug\Tres_en_Raya.Principal.resources
+D:\dev vs\Tres en Raya V2\Tres en Raya\obj\x86\Debug\Tres en Raya.vbproj.GenerateResource.Cache
+D:\dev vs\Tres en Raya V2\Tres en Raya\bin\Debug\Tres en Raya.exe
+D:\dev vs\Tres en Raya V2\Tres en Raya\bin\Debug\Tres en Raya.pdb
+D:\dev vs\Tres en Raya V2\Tres en Raya\bin\Debug\Tres en Raya.xml
+D:\dev vs\Tres en Raya V2\Tres en Raya\obj\x86\Debug\Tres en Raya.vbprojResolveAssemblyReference.cache
+D:\dev vs\Tres en Raya V2\Tres en Raya\obj\x86\Debug\Tres en Raya.exe.licenses
+D:\dev\VB.NET\Tres en Raya V2\Tres en Raya\obj\x86\Debug\Tres en Raya.exe
+D:\dev\VB.NET\Tres en Raya V2\Tres en Raya\obj\x86\Debug\Tres en Raya.xml
+D:\dev\VB.NET\Tres en Raya V2\Tres en Raya\obj\x86\Debug\Tres en Raya.pdb

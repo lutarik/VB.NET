@@ -1,0 +1,132 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HundirLaFlota
+</name>
+</assembly>
+<members>
+<member name="T:HundirLaFlota.HundirLaFlotaDS.PuntuacionesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HundirLaFlota.HundirLaFlotaDS.PuntuacionesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HundirLaFlota.HundirLaFlotaDS.PuntuacionesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HundirLaFlota.HundirLaFlotaDS">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HundirLaFlota.HundirLaFlotaDSTableAdapters.PuntuacionesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:HundirLaFlota.HundirLaFlotaDSTableAdapters.TableAdapterManager.UpdateUpdatedRows(HundirLaFlota.HundirLaFlotaDS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:HundirLaFlota.HundirLaFlotaDSTableAdapters.TableAdapterManager.UpdateInsertedRows(HundirLaFlota.HundirLaFlotaDS,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:HundirLaFlota.HundirLaFlotaDSTableAdapters.TableAdapterManager.UpdateDeletedRows(HundirLaFlota.HundirLaFlotaDS,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:HundirLaFlota.HundirLaFlotaDSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:HundirLaFlota.HundirLaFlotaDSTableAdapters.TableAdapterManager.UpdateAll(HundirLaFlota.HundirLaFlotaDS)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:HundirLaFlota.HundirLaFlotaDSTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:HundirLaFlota.HundirLaFlotaDSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:HundirLaFlota.HundirLaFlotaDSTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:HundirLaFlota.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:HundirLaFlota.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:HundirLaFlota.My.Resources.Resources._11">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HundirLaFlota.My.Resources.Resources._21">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HundirLaFlota.My.Resources.Resources._22">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HundirLaFlota.My.Resources.Resources._31">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HundirLaFlota.My.Resources.Resources._32">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HundirLaFlota.My.Resources.Resources._33">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HundirLaFlota.My.Resources.Resources._41">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HundirLaFlota.My.Resources.Resources._51">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HundirLaFlota.My.Resources.Resources._52">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HundirLaFlota.My.Resources.Resources._61">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HundirLaFlota.My.Resources.Resources._62">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HundirLaFlota.My.Resources.Resources._63">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HundirLaFlota.My.Resources.Resources.Hundirlaflota">
+	<summary>
+  Busca un recurso adaptado de tipo System.Byte[].
+</summary>
+</member><member name="P:HundirLaFlota.My.Resources.Resources.mar">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:HundirLaFlota.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>

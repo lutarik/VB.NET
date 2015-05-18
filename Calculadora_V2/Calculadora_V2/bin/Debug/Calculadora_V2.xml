@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Calculadora_V2
+</name>
+</assembly>
+<members>
+<member name="P:Calculadora_V2.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Calculadora_V2.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Calculadora_V2.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Calculadora_V2.Calculadora.pantalla(System.Char)">
+	<summary>
+ Esta funcion nos rellenará la pantalla. Puede resultar un poco sin sentido el tener dos funciones que lo unico que hacen es llamar a esta
+ pero creo que es una forma optima de trabajar ya que no tendré que modificar código dos veces
+ </summary>
+	<param name="numero"> Numero que vamos a pasar a la función para agregar a la pantalla</param>
+	<remarks></remarks>
+</member><member name="M:Calculadora_V2.Calculadora.acumulador(System.String,System.Decimal)">
+	<summary>
+ Esta función acumula los operandos que se le envia desde la funcion operaciones
+ </summary>
+	<param name="oper">El operador</param>
+	<param name="num">Segundo número</param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

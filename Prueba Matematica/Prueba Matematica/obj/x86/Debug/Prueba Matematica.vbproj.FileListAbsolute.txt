@@ -1,0 +1,9 @@
+D:\dev vs\Prueba Matematica\Prueba Matematica\bin\Debug\Prueba Matematica.exe
+D:\dev vs\Prueba Matematica\Prueba Matematica\bin\Debug\Prueba Matematica.pdb
+D:\dev vs\Prueba Matematica\Prueba Matematica\bin\Debug\Prueba Matematica.xml
+D:\dev vs\Prueba Matematica\Prueba Matematica\obj\x86\Debug\Prueba_Matematica.Resources.resources
+D:\dev vs\Prueba Matematica\Prueba Matematica\obj\x86\Debug\Prueba_Matematica.Prueba_Matematica.resources
+D:\dev vs\Prueba Matematica\Prueba Matematica\obj\x86\Debug\Prueba Matematica.vbproj.GenerateResource.Cache
+D:\dev vs\Prueba Matematica\Prueba Matematica\obj\x86\Debug\Prueba Matematica.exe
+D:\dev vs\Prueba Matematica\Prueba Matematica\obj\x86\Debug\Prueba Matematica.xml
+D:\dev vs\Prueba Matematica\Prueba Matematica\obj\x86\Debug\Prueba Matematica.pdb

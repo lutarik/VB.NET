@@ -1,0 +1,11 @@
+C:\Users\DccS\AppData\Local\Temporary Projects\PictureViewer\bin\Debug\PictureViewer.exe.config
+D:\dev vs\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+D:\dev vs\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+D:\dev vs\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+D:\dev vs\PictureViewer\PictureViewer\bin\Debug\PictureViewer.xml
+D:\dev vs\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+D:\dev vs\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Resources.resources
+D:\dev vs\PictureViewer\PictureViewer\obj\Debug\PictureViewer.vbproj.GenerateResource.Cache
+D:\dev vs\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+D:\dev vs\PictureViewer\PictureViewer\obj\Debug\PictureViewer.xml
+D:\dev vs\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb

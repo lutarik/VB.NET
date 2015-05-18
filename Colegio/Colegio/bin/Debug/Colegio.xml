@@ -1,0 +1,112 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Colegio
+</name>
+</assembly>
+<members>
+<member name="T:Colegio.ColegioDataSet.alumnosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Colegio.ColegioDataSet.asignaturasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Colegio.ColegioDataSet.matriculasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Colegio.ColegioDataSet.alumnosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Colegio.ColegioDataSet.asignaturasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Colegio.ColegioDataSet.matriculasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Colegio.ColegioDataSet.alumnosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Colegio.ColegioDataSet.asignaturasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Colegio.ColegioDataSet.matriculasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Colegio.ColegioDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Colegio.ColegioDataSetTableAdapters.alumnosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Colegio.ColegioDataSetTableAdapters.asignaturasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Colegio.ColegioDataSetTableAdapters.matriculasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Colegio.ColegioDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Colegio.ColegioDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Colegio.ColegioDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Colegio.ColegioDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Colegio.ColegioDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Colegio.ColegioDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Colegio.ColegioDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Colegio.ColegioDataSetTableAdapters.TableAdapterManager.UpdateAll(Colegio.ColegioDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Colegio.ColegioDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Colegio.ColegioDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Colegio.ColegioDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Colegio.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Colegio.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:Colegio.My.Resources.Resources.colegio">
+	<summary>
+  Busca un recurso adaptado de tipo System.Byte[].
+</summary>
+</member><member name="T:Colegio.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>

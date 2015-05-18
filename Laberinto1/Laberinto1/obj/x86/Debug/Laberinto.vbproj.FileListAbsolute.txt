@@ -1,0 +1,9 @@
+C:\Users\DccS\AppData\Local\Temporary Projects\Laberinto\bin\Debug\Laberinto.exe
+C:\Users\DccS\AppData\Local\Temporary Projects\Laberinto\bin\Debug\Laberinto.pdb
+C:\Users\DccS\AppData\Local\Temporary Projects\Laberinto\bin\Debug\Laberinto.xml
+C:\Users\DccS\AppData\Local\Temporary Projects\Laberinto\obj\x86\Debug\Laberinto.Laberinto.resources
+C:\Users\DccS\AppData\Local\Temporary Projects\Laberinto\obj\x86\Debug\Laberinto.Resources.resources
+C:\Users\DccS\AppData\Local\Temporary Projects\Laberinto\obj\x86\Debug\Laberinto.vbproj.GenerateResource.Cache
+C:\Users\DccS\AppData\Local\Temporary Projects\Laberinto\obj\x86\Debug\Laberinto.exe
+C:\Users\DccS\AppData\Local\Temporary Projects\Laberinto\obj\x86\Debug\Laberinto.xml
+C:\Users\DccS\AppData\Local\Temporary Projects\Laberinto\obj\x86\Debug\Laberinto.pdb

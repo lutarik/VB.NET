@@ -1,0 +1,30 @@
+C:\Users\DccS\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\DccS\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\DccS\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.xml
+C:\Users\DccS\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.Calculadora.resources
+C:\Users\DccS\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.Resources.resources
+C:\Users\DccS\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.vbproj.GenerateResource.Cache
+C:\Users\DccS\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\DccS\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.xml
+C:\Users\DccS\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.pdb
+D:\dev vs\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+D:\dev vs\Calculadora\Calculadora\obj\x86\Debug\Calculadora.xml
+D:\dev vs\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\dev\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\dev\Calculadora\Calculadora\obj\x86\Debug\Calculadora.xml
+C:\dev\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\dev\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\dev\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\dev\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+C:\dev\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Calculadora.resources
+C:\dev\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Resources.resources
+C:\dev\Calculadora\Calculadora\obj\x86\Debug\Calculadora.vbproj.GenerateResource.Cache
+D:\Dropbox\Material DAM\2º DAM\Desarrollo de Interfaces\Tema 1\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+D:\Dropbox\Material DAM\2º DAM\Desarrollo de Interfaces\Tema 1\Calculadora\Calculadora\obj\x86\Debug\Calculadora.xml
+D:\Dropbox\Material DAM\2º DAM\Desarrollo de Interfaces\Tema 1\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+D:\dev vs\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\dev vs\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\dev vs\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+D:\dev vs\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Calculadora.resources
+D:\dev vs\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Resources.resources
+D:\dev vs\Calculadora\Calculadora\obj\x86\Debug\Calculadora.vbproj.GenerateResource.Cache

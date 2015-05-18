@@ -1,0 +1,72 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+JuegoPlataforma
+</name>
+</assembly>
+<members>
+<member name="M:Juego_Plataforma.Plataformas.Plataformas_Load(System.Object,System.EventArgs)">
+	<summary>
+ Al cargar el formulario situo la barra en medio del formulario
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Juego_Plataforma.Plataformas.Carga_Posiciones">
+	<summary>
+ Cargo las posiciones en función a los huecos que haya
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Juego_Plataforma.Plataformas.movimiento(System.Object,System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ La barra se mueve con el raton
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Juego_Plataforma.Plataformas.Plataformas_SizeChanged(System.Object,System.EventArgs)">
+	<summary>
+ Cada vez que se modifica el tamaño situo la barra en la parte inferior
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Juego_Plataforma.Plataformas.creator">
+	<summary>
+ Creo los bloques
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Juego_Plataforma.Plataformas.panel_gen(System.Object,System.EventArgs)">
+	<summary>
+ Generamos los bloques
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Juego_Plataforma.Plataformas.start(System.Object,System.EventArgs)">
+	<summary>
+ Al pulsar el boton se enciende o apaga el boton
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Juego_Plataforma.Plataformas.caida(System.Object,System.EventArgs)">
+	<summary>
+ Los bloques van cayendo
+ </summary>
+</member><member name="M:Juego_Plataforma.Plataformas.goal(System.Drawing.Point,System.String)">
+	<summary>
+ Comprueba si lo recogemos o cae al fondo
+ </summary>
+	<param name="pos_bloque">La posicion actual del bloque</param>
+	<param name="nom_bloque">Nombre del bloque</param>
+	<remarks></remarks>
+</member><member name="P:Juego_Plataforma.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Juego_Plataforma.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Juego_Plataforma.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

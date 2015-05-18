@@ -1,0 +1,22 @@
+C:\Users\rafa\AppData\Local\Temporary Projects\ConecMySQL\obj\x86\Debug\ConecMySQL.Resources.resources
+C:\Users\rafa\AppData\Local\Temporary Projects\ConecMySQL\obj\x86\Debug\ConecMySQL.vbproj.GenerateResource.Cache
+C:\Users\rafa\AppData\Local\Temporary Projects\ConecMySQL\bin\Debug\ConecMySQL.exe
+C:\Users\rafa\AppData\Local\Temporary Projects\ConecMySQL\bin\Debug\ConecMySQL.pdb
+C:\Users\rafa\AppData\Local\Temporary Projects\ConecMySQL\bin\Debug\ConecMySQL.xml
+C:\Users\rafa\AppData\Local\Temporary Projects\ConecMySQL\obj\x86\Debug\ConecMySQL.Form1.resources
+C:\Users\rafa\AppData\Local\Temporary Projects\ConecMySQL\obj\x86\Debug\ConecMySQL.exe
+C:\Users\rafa\AppData\Local\Temporary Projects\ConecMySQL\obj\x86\Debug\ConecMySQL.xml
+C:\Users\rafa\AppData\Local\Temporary Projects\ConecMySQL\obj\x86\Debug\ConecMySQL.pdb
+C:\Users\rafa\documents\visual studio 2010\Projects\ConecMySQL\ConecMySQL\obj\x86\Debug\ConecMySQL.exe
+C:\Users\rafa\documents\visual studio 2010\Projects\ConecMySQL\ConecMySQL\obj\x86\Debug\ConecMySQL.xml
+C:\Users\rafa\documents\visual studio 2010\Projects\ConecMySQL\ConecMySQL\obj\x86\Debug\ConecMySQL.pdb
+C:\Users\rafa\documents\visual studio 2010\Projects\ConecMySQL\ConecMySQL\bin\Debug\ConecMySQL.exe
+C:\Users\rafa\documents\visual studio 2010\Projects\ConecMySQL\ConecMySQL\bin\Debug\ConecMySQL.pdb
+C:\Users\rafa\documents\visual studio 2010\Projects\ConecMySQL\ConecMySQL\bin\Debug\ConecMySQL.xml
+C:\Users\rafa\documents\visual studio 2010\Projects\ConecMySQL\ConecMySQL\obj\x86\Debug\ConecMySQL.Form1.resources
+C:\Users\rafa\documents\visual studio 2010\Projects\ConecMySQL\ConecMySQL\obj\x86\Debug\ConecMySQL.Resources.resources
+C:\Users\rafa\documents\visual studio 2010\Projects\ConecMySQL\ConecMySQL\obj\x86\Debug\ConecMySQL.vbproj.GenerateResource.Cache
+C:\Users\rafa\documents\visual studio 2010\Projects\ConecMySQL\ConecMySQL\obj\x86\Debug\ConecMySQL.vbprojResolveAssemblyReference.cache
+D:\dev vs\ConecMySQL\ConecMySQL\obj\x86\Debug\ConecMySQL.exe
+D:\dev vs\ConecMySQL\ConecMySQL\obj\x86\Debug\ConecMySQL.xml
+D:\dev vs\ConecMySQL\ConecMySQL\obj\x86\Debug\ConecMySQL.pdb

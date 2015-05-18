@@ -1,0 +1,9 @@
+D:\dev vs\Laberinto1\Laberinto1\bin\Debug\Laberinto1.exe
+D:\dev vs\Laberinto1\Laberinto1\bin\Debug\Laberinto1.pdb
+D:\dev vs\Laberinto1\Laberinto1\bin\Debug\Laberinto1.xml
+D:\dev vs\Laberinto1\Laberinto1\obj\x86\Debug\Laberinto.Laberinto.resources
+D:\dev vs\Laberinto1\Laberinto1\obj\x86\Debug\Laberinto.Resources.resources
+D:\dev vs\Laberinto1\Laberinto1\obj\x86\Debug\Laberinto1.vbproj.GenerateResource.Cache
+D:\dev vs\Laberinto1\Laberinto1\obj\x86\Debug\Laberinto1.exe
+D:\dev vs\Laberinto1\Laberinto1\obj\x86\Debug\Laberinto1.xml
+D:\dev vs\Laberinto1\Laberinto1\obj\x86\Debug\Laberinto1.pdb
